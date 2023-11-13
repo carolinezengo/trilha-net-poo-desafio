@@ -14,4 +14,3 @@ Nokia nokia = new Nokia(numero : "789456123", modelo: "Modelo20", imei :"1122522
 nokia.Ligar();
 
 nokia.InstalarAplicativo("Twitter");
-// TODO: Realizar os testes com as classes Nokia e Iphone
